@@ -1,0 +1,13 @@
+.ctags_*
+*.o
+checksum
+columns.h
+distcomp
+dsdgen
+dsqgen
+mkheader
+streams.h
+tables.h
+tags
+tpcds.idx
+tpcds.idx.h
